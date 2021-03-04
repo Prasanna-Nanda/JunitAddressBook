@@ -1,4 +1,4 @@
-package com.javaprogram.addressbook;
+package com.javaprogram.AddressBook;
 
 public class InformationInput {
 
